@@ -10,6 +10,7 @@
 $$
 yum list | grep lynx    有结果返回说明可以用yum安装
 
+
 yum -y install lynx    安装
 $$
 lynx  http://www.baidu.com  *##  使用 -accept_all_cookies 选项可以跳过后面的操作。*
